@@ -1,5 +1,13 @@
 full stack website for bhoepa plumbing
 get business cards
 
-# npm create vite@latest frontend -- --template react 
+
+CREATES FRONT END TEMPLATE
+# npm create vite@latest client-frontend -- --template react 
+
+
+HOW TO RUN 
+# cd client-backend
+# npm install
+# npm run dev
 
